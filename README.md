@@ -1,2 +1,2 @@
 # collective-intel-hs
-Working through "Collective Intelligence" examples in Haaskell
+Working through "Collective Intelligence" examples in Haskell
